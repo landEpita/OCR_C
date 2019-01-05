@@ -1,0 +1,9 @@
+In order, to use the differents elements of our OCR you have to
+build an exe in the concern folder and you just have to load it
+with an image in argument for the preprocessing and the segmentation
+and with a number for the neural network.
+
+
+Now if you want to have an interface with buttons link you
+just have to build at the root with "make ocr". You just have 
+to load the gui.exe. 

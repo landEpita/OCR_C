@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "math.h": "c",
+        "sdl_image.h": "c",
+        "stdlib.h": "c",
+        "gtk.h": "c",
+        "correction.h": "c"
+    }
+}
